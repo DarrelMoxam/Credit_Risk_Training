@@ -2,10 +2,8 @@
 Mentor Project Classification modeling
 
  
-
-On 02/27/2020 my mentor assigned me a project that would eventually challenge myself with modeling. 
-An IBM generated dataset of credit risk training redacted was given as the data set to work on, luckily didn’t 
-have to source the dataset online but instead, it was provided as a CSV through slack.
+ An IBM generated dataset of credit risk training redacted was given as the data set to work on, luckily didn’t 
+have to source the dataset online but instead, it was provided as a CSV by my mentor.
 
  
 
@@ -32,7 +30,7 @@ have to source the dataset online but instead, it was provided as a CSV through 
 
 The Use case was to build classification models that would predict which customers should be accurately labeled as 
 ‘Risk’ or ‘No Risk’ and select the best model to use. Once all models were created I focused on the confusion matrix and 
-classification report for each model. I was told to look into Type 1 and type 2 errors and from there I drew the conclusion 
+classification report for each model. I decided to look into Type 1 and type 2 errors and from there I drew the conclusion 
 that what I needed to focus on were the Specificity and Classification error. Classification Error definition is overall, 
 how often is the classifier incorrect while Specificity is when the actual value is negative, how often is the prediction 
 correct. All 5 had different results that viewed differents stats on the Classification Report and Confusion Matrix. 
