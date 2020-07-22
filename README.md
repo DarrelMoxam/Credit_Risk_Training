@@ -38,3 +38,6 @@ The Decision tree had an accuracy level of 1 which is pretty good but it’s too
 accuracy dropped when applied. So I decided to go with the model that was second to that. Which was the RandomForestClassifer 
 which had a Classification error of 0.0240722 and Precision of 0.9859578. The worst Classification model that was trained was 
 the  SGDClassifier with a Classification error of 0.353059 and precision of 0.64694082.
+
+
+I decided to add some business questions and answer them at the end of the  notebook as well
