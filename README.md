@@ -1,5 +1,5 @@
 # Credit_Risk_Training
-Mentor Project Classification modeling
+![Image of credit risk](https://www.smithhanley.com/wp-content/uploads/2018/06/credit-risk.jpg)
 
  
  An IBM generated dataset of credit risk training redacted was given as the data set to work on, luckily didn’t 
