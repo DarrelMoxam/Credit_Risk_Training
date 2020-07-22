@@ -38,8 +38,8 @@ which had a Classification error of 0.0240722 and Precision of 0.9859578. The wo
 the  SGDClassifier with a Classification error of 0.353059 and precision of 0.64694082.
 ![Image of credit risk](https://github.com/DarrelMoxam/Credit_Risk_Training/blob/master/Image%20Folder/Screen%20Shot%202020-07-21%20at%2010.12.57%20PM.png)
 
-
-# I decided to add some business questions and answer them at the end of the  notebook as well
+# 
+# Business questions 
 
 ### (1) Is there any duplicates found in the data is so how many are there ?
 ![Image of credit risk](https://github.com/DarrelMoxam/Credit_Risk_Training/blob/master/Image%20Folder/Screen%20Shot%202020-07-21%20at%209.38.09%20PM.png)
