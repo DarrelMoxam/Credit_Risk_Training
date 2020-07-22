@@ -43,7 +43,7 @@ the  SGDClassifier with a Classification error of 0.353059 and precision of 0.64
 I decided to add some business questions and answer them at the end of the  notebook as well
 
 ### (1) Is there any duplicates found in the data is so how many are there ?
-`<df_duplic
+`<df_duplic>`
 # results  = 18 duplicates>`
 ### (2) From the data set provided whats the most job criteria there is ?
 
