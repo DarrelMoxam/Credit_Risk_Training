@@ -1,7 +1,6 @@
 # Credit_Risk_Training
 ![Image of credit risk](https://www.smithhanley.com/wp-content/uploads/2018/06/credit-risk.jpg)
-
- 
+![Image of credit risk](https://github.com/DarrelMoxam/Credit_Risk_Training/blob/master/Image%20Folder/Screen%20Shot%202020-07-21%20at%209.38.27%20PM.png)
  An *IBM generated* dataset of credit risk training redacted was given as the data set to work on, luckily didn’t 
 have to source the dataset online but instead, it was provided as a CSV by my mentor.
 
