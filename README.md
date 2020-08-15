@@ -4,7 +4,9 @@
 have to source the dataset online but instead, it was provided as a CSV by my mentor.
 
  
-Medium Post-https://medium.com/@mrmoxam/write-a-data-science-blog-post-e0f489646299
+ Medium Post-https://medium.com/@mrmoxam/write-a-data-science-blog-post-e0f489646299
+
+
  After reading in the data, I began with the basic EDA and observing the data to find any missing, 
  duplicate or messy data in the dataset. No missing values were detected but the data itself had duplicates but due 
  to the size, I decided to drop the few duplicates that were present as I thought it wouldn’t matter.
